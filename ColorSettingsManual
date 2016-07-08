@@ -37,7 +37,8 @@ Text compare
 		Resolved change color 							108,210,17
 
 View and editor folders 
-		Active (non-focus) part foreground				192,192,192
+		Active (non-focus) part foreground				32,32,32			(Editor active tab title!)
+		Active part Foreground 							13,13,13			(Editor active tab title!)
 
 
 
@@ -117,11 +118,17 @@ Multi-line Comments 									128,128,128
 Single-line Comment 									128,128,128
 Task tags												170,170,170, underlined
 
+4. Java - Properties Files Editor
+arguments 												255,0,128,bold
+assignments												238,238,238
+Comments 												128,128,128
+Key 													255,255,128
+value													168,255,255
 
-
-
-
-
-
+5. Run/Debug - Console
+Standard out text color 								0,0,0
+Standard Error text color 								242,121,0
+Standard In text color 									0,128,255
+Background color 										0,0,0
 
 
