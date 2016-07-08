@@ -2,23 +2,24 @@ In preference：
 
 1. General - Appearance - Colors and Font
 
-    Basic - Active hyperlink text color				138,201,242
-	Banner Font 									Segoe UI 10 bold
-	Content Assist background color 				52,57,61
-	Content Assist background color 				238,238,238
-	Counter color 									0,127,174 				(unchanged)
-	Decoration color 								149,125,71 				(unchanged)	
-	Dialog Font 									Microsoft YaHei UI 9 					(font of all menus and settings!)
-	Error text color 								247,68,117
-	Header font 									Consolas 14 bold
-	Hiperlink text color 							111,197,238
-	Matching highlight background color 			88,97,173
-	Qualifier information background color 			128,128,128 			(unchanged)
-	Text editor block selection font 				Courier New 10 			(unchanged)
-	Text Font Monaco 11 (basic font in all editors!)
-		(Install MacType to get better visual effect)
-		D:\desarrollo\workspace_NEW\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.ui.workbench.prefs:
-		5:org.eclipse.jface.textfont=1|Monaco|11.25|0|WINDOWS|1|-15|0|0|0|400|0|0|0|0|3|2|1|49|Monaco;
+Basic - Active hyperlink text color						138,201,242
+		Banner Font 									Segoe UI 10 bold
+		Content Assist background color 				52,57,61
+		Content Assist background color 				238,238,238
+		Counter color 									0,127,174 				(unchanged)
+		Decoration color 								149,125,71 				(unchanged)	
+		Dialog Font 									Microsoft YaHei UI 9 					(font of all menus and settings!)
+		Error text color 								247,68,117
+		Header font 									Consolas 14 bold
+		Hiperlink text color 							111,197,238
+		Matching highlight background color 			88,97,173
+		Qualifier information background color 			128,128,128 			(unchanged)
+		Text editor block selection font 				Courier New 10 			(unchanged)
+		Text Font Monaco 11 (basic font in all editors!)
+			(Install MacType to get better visual effect)
+
+			D:\desarrollo\workspace_NEW\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.ui.workbench.prefs:
+			5:org.eclipse.jface.textfont=1|Monaco|11.25|0|WINDOWS|1|-15|0|0|0|400|0|0|0|0|3|2|1|49|Monaco;
 
 CVS - 
 
@@ -116,7 +117,7 @@ Multi-line Comments 									128,128,128
 Single-line Comment 									128,128,128
 Task tags												170,170,170, underlined
 
-  
+
 
 
 
