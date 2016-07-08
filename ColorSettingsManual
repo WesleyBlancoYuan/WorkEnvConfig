@@ -88,7 +88,7 @@ Classes 												82,227,246
 Constants 												255,255,147, underlined
 Deprecated members 										255,0,0, strikethrough
 Enums													82,227,246, underlined
-Fields													255,255,128
+Fields													248,248,248
 ..
 Interfaces												82,227,246, italic
 keyword 'return'										255,0,127,bold
@@ -101,7 +101,7 @@ Numbers													196,140,255
 Operators												255,0,127
 Others													234,234,234
 Parameter variables										121,171,255
-Static Fields 											255,255,128, italic
+Static Fields 											248,248,248, italic
 static final Fields 									255,255,128, underlined
 Static method invocations								167,236,33, italic
 Strings													255,255,128
